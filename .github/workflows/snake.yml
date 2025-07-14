@@ -20,8 +20,8 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: List output files
-        run: ls -al dist || echo "dist not found"
+      - name: Check if dist folder exists
+        run: ls -la dist || echo "⚠️ dist folder not generated"
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
