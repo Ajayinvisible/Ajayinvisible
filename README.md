@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Rai 👋 | Full Stack Laravel Developer 🚀</h1>
 <h3 align="center">I'm a passionate Full Stack Laravel Developer based in Nepal 🇳🇵. I specialize in building dynamic, scalable, and secure web applications using Laravel, Livewire, Vue.js, and MySQL. From crafting responsive UI with Blade or Tailwind to architecting complex backend systems, I love turning ideas into real-world digital products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayinvisible&label=Profile%20views&color=0e75b6&style=flat" alt="ajayinvisible" /> </p>
-
-
 
 - 🔭 I’m currently working on **Advanced CMS,Invoice & POS systems, and eCommerce platforms**
 
